@@ -1,0 +1,43 @@
+.header{
+    margin: 0 auto;
+    height:70vh;
+    width: 50vh;
+    background-color: #BFC1C1;
+    margin-bottom: 0%;
+}
+
+.header-foto{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; 
+    margin-left: 70px;
+    margin-top: 30px;
+    border-style: dotted;
+    border-color: whitesmoke;
+}
+
+.header-me{
+    padding: 30px;
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+.header-name{
+    font-size: 25px;
+    color: #1F2525;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.gif{
+    width: 220px;
+    height: 160px;
+    border-style: dotted;
+    border-color: whitesmoke;
+}
+
+.gato{
+    text-align: center;
+    margin-top: 20px;
+}

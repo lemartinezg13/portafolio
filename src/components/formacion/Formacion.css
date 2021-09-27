@@ -1,0 +1,15 @@
+.Formacion{
+    margin: 0%;
+    height:70vh;
+    width: 50vh;
+    background-color: #fffdfd;
+}
+
+.formacion{
+    padding: 10px;
+}
+
+ul {
+    list-style:square;
+
+}

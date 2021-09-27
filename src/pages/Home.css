@@ -1,0 +1,39 @@
+.footer{
+    width: 100%;
+    height: 200px;
+    margin-top: 257px;
+}
+
+.header-img{
+    width: 100%;
+    height: 200px;
+}
+
+.title-prin{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(44, 43, 58);
+}
+
+.bottom{
+    border-radius: 20px;
+    background-color: rgb(25, 224, 224);
+    width: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.bottom:hover{
+    background-color: rgb(25, 224, 224);
+    border-color: rgb(255, 255, 255);
+}
+
+.home{
+    text-align: center;
+}
+
+.gif-home{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}

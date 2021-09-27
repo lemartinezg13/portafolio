@@ -1,0 +1,21 @@
+.contacto{
+    margin: 0 auto;
+    height:65vh;
+    width: 50vh;
+    background-color: #BFC1C1;
+    position: relative;
+}
+
+.titulo{
+    font-size: 25px;
+    color: #1F2525;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    padding: 20px;
+}
+
+ul {
+    list-style:square;
+
+}

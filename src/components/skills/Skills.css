@@ -1,0 +1,10 @@
+.skills{
+    margin: 0 auto;
+    height:35vh;
+    width: 50vh;
+    background-color: #fffdfd;
+}
+
+.skill{
+    padding: 10px;
+}

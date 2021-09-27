@@ -1,0 +1,40 @@
+.about{
+
+    height:70vh;
+    width: 50vh;
+    background-color: #fffdfd;
+}
+
+.title{
+    font-size: 25px;
+    color: #1F2525;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    padding: 20px;
+}
+.about-me{
+    padding: 10px;
+    text-align: justify;
+}
+
+.experiencia{
+    padding: 20px;
+}
+
+p{
+    padding: 20px;
+    text-align: justify;
+    font-family: sans-serif;
+}
+.gif{
+    width: 220px;
+    height: 160px;
+    border-style: dotted;
+    border-color: whitesmoke;
+}
+
+.gato{
+    text-align: center;
+    margin-top: 20px;
+}
