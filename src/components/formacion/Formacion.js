@@ -1,4 +1,5 @@
 import './Formacion.css';
+import { Link } from "react-router-dom";
 
 function Formacion(){
     return(
@@ -32,6 +33,7 @@ function Formacion(){
                 
 
                 </ul>
+                <a className="bottom"><Link to="/portafolio">Portafolio</Link></a>
             </div>
         </div>
     );

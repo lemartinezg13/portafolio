@@ -1,5 +1,6 @@
 import './About.css';
 import gif from './gato.gif';
+import { Link } from "react-router-dom";
 
 function About(){
     return(
@@ -21,7 +22,7 @@ function About(){
                 </p>
             </div>
             <div className="gato">
-                <img className="gif" src={gif} alt=""/>
+            <a className="bottom"><Link to="">Volver a Página Principal</Link></a>
             </div>
         </div>
     );

@@ -13,3 +13,15 @@ ul {
     list-style:square;
 
 }
+.bottom{
+    border-radius: 20px;
+    background-color: rgb(25, 224, 224);
+    width: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.bottom:hover{
+    background-color: rgb(25, 224, 224);
+    border-color: rgb(255, 255, 255);
+}
